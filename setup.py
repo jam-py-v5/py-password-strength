@@ -4,7 +4,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='password_strength',
+    name='py-password_strength',
     version='0.0.3-2',
     author='Mark Vartanyan',
     author_email='kolypto@gmail.com',
