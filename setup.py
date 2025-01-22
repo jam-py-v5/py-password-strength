@@ -9,7 +9,7 @@ setup(
     author='Mark Vartanyan',
     author_email='kolypto@gmail.com',
 
-    url='https://github.com/kolypto/py-password-strength',
+    url='https://github.com/jam-py-v5/py-password-strength',
     license='BSD',
     description=__doc__,
     long_description=open('README.md').read(),
